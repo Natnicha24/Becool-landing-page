@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Rating from "./components/Rating";
 import Project from "./components/Project";
 import Service from "./components/Services";
-import ProjectView from "./components/project-view";
+import ProjectView from "./components/Project-view";
 import Contact from "./components/Contact";
 import Bottom from "./components/Bottom";
 
