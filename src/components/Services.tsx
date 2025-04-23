@@ -43,7 +43,7 @@ function Service() {
         >
           <img
             src="/image/font.png"
-            alt="social-media"
+            alt="font"
             className=" w-[40%] h-auto"
           />
           <span className="font-bold bg-custom_yellow px-5 py-2 rounded-3xl w-fit">
