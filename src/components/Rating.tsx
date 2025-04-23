@@ -29,7 +29,7 @@ function Rating() {
   });
 
   return (
-    <div className="w-[100%] bg-custom_white p-10 pt-[100px]">
+    <div className="w-[100vw] bg-custom_white p-10 pt-[100px]">
       <span className="text-3xl font-bold text-custom_green text-wrap">
         Rating from our Customer
       </span>

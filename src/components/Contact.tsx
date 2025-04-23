@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div className="pt-[100px] px-20 flex flex-row justify-center items-center">
+    <div className="w-[100vw] pt-[100px] px-20 flex flex-row justify-center items-center">
       <img
         src="https://static.vecteezy.com/system/resources/previews/024/785/816/non_2x/3d-male-character-happy-working-on-a-laptop-free-png.png"
         alt="logo"
@@ -9,7 +9,11 @@ function Contact() {
         lg:block
         xl:block"
       />
-      <div className="w-[50%]">
+      <div className="w-[100%]
+       sm:w-[60%]
+            md:w-[50%]
+            lg:w-[50%]
+            xl:w-[50%]">
         <span className="text-custom_green font-bold text-3xl">
           Register for Information
         </span>

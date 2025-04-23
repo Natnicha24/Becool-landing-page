@@ -30,7 +30,7 @@ function Project() {
   });
 
   return (
-    <div className="w-[100%] flex flex-row justify-center px-[10%] gap-5 flex-wrap pt-[100px]">
+    <div className="w-[100vw] flex flex-row justify-center px-[10%] gap-5 flex-wrap pt-[100px]">
       <div className="w-[50%]  text-left">
         <span className="text-3xl font-bold text-custom_green">
           BE COOL - WORK:

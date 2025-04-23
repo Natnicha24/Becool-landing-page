@@ -11,7 +11,7 @@ import Bottom from "./components/Bottom";
 function App() {
   return (
     <div
-      className="w-[calc(100vw-17px)] overflow-x-hidden overflow-y-hidden">
+      className="w-full">
       <Nav />
       <Header />
       <Rating />
