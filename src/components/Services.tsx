@@ -55,7 +55,7 @@ function Service() {
 
         <div
           className=" bg-custom_pink rounded-lg
-        flex flex-col flex-wrap justify-center items-center w-full h-full p-10 gap-5
+        flex flex-col flex-wrap justify-center items-center w-full h-full px-10 py-5 gap-5
          sm:col-span-1 sm:row-span-1 sm:row-start-3
      md:col-span-1 md:row-span-2 
      lg:col-span-1 lg:row-span-2 
