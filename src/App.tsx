@@ -1,11 +1,10 @@
-import { useState } from "react";
 import "./App.css";
 import Nav from "./components/Nav";
 import Header from "./components/Header";
 import Rating from "./components/Rating";
 import Project from "./components/Project";
 import Service from "./components/Services";
-import ProjectView from "./components/Project-view";
+import ProjectView from "./components/ProjectView";
 import Contact from "./components/Contact";
 import Bottom from "./components/Bottom";
 

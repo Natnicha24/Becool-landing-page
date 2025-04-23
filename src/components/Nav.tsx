@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 function Nav() {
   return (
     <div className="w-screen bg-custom_pink flex flex-col px-3 py-2 items-center justify-center gap-0
